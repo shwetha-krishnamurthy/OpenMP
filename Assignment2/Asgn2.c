@@ -61,9 +61,7 @@ int main()
    //       printf("%d ", im[i][j]);
    //   printf("\n");
    // }
- 
-    /* Code for further processing and free the 
-      dynamically allocated memory */
+
  
    return 0;
 }
